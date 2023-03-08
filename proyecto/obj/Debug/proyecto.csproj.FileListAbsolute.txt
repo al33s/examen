@@ -1,0 +1,8 @@
+D:\visual estudio\trabajos U\proyecto\proyecto\bin\Debug\proyecto.exe.config
+D:\visual estudio\trabajos U\proyecto\proyecto\bin\Debug\proyecto.exe
+D:\visual estudio\trabajos U\proyecto\proyecto\bin\Debug\proyecto.pdb
+D:\visual estudio\trabajos U\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+D:\visual estudio\trabajos U\proyecto\proyecto\obj\Debug\proyecto.csproj.SuggestedBindingRedirects.cache
+D:\visual estudio\trabajos U\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+D:\visual estudio\trabajos U\proyecto\proyecto\obj\Debug\proyecto.exe
+D:\visual estudio\trabajos U\proyecto\proyecto\obj\Debug\proyecto.pdb
